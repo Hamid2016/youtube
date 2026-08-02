@@ -1,0 +1,19 @@
+These are the **column names** (or features) in your housing dataset, Hamid. Here's what each one represents:
+
+---
+
+### 🏠 Dataset Features Explained
+
+| Feature        | Meaning                                                                 |
+|----------------|-------------------------------------------------------------------------|
+| **MedInc**     | Median income of households in the area (in $10,000s)                  |
+| **HouseAge**   | Age of the houses in the area (in years)                               |
+| **AveRooms**   | Average number of rooms per household                                   |
+| **AveOccup**   | Average number of people living per household                          |
+| **Latitude**   | Geographic latitude of the location (north–south position)             |
+| **Longitude**  | Geographic longitude of the location (east–west position)              |
+| **MedHouseVal**| Median house value in the area (in $100,000s) — this is your target 🎯 |
+
+---
+
+You’ll use these features to explore patterns and eventually predict `MedHouseVal`. If you want to visualize how each one affects house value, I can help you build those plots next.
